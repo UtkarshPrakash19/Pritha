@@ -1,1 +1,1 @@
-”This is feature2 branch”
+”Feature2 additional update”
